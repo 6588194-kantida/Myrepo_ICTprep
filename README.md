@@ -14,3 +14,4 @@ Smutprakan, Thailand
 * Drawing
 * Watching movie
 * listen to music
+* Playing games
