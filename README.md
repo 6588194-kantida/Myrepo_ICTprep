@@ -6,3 +6,6 @@ Kantida Sornlam
 
 ## Email
 kantida.sor@student.mahidol.ac.th
+
+## My hometown
+Bankok, Thailand
