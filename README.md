@@ -8,4 +8,9 @@ Kantida Sornlam
 kantida.sor@student.mahidol.ac.th
 
 ## My hometown
-Bankok, Thailand
+Smutprakan, Thailand
+
+## My favorite activities
+* Drawing
+* Watching movie
+* listen to music
